@@ -6,13 +6,11 @@
 
 ## Overview
 
-
+3d animation using only javascript and css.
 
 ## Preview
 
-<img src="./preview.gif" height="500">
-
-![3D Card Effect](./preview.png)
+<img src="./preview.gif">
 
 ## Used technologies
 
